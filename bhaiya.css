@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: blue;
+    width: 100vw;
+    height: 20vh;
+
+}
+.col-2{
+    background-color: aquamarine;
+    height: 456px;
+    width: 116px;
+}
+.col-10{
+
+}
+main{
+    background-color: blueviolet;
+    width: 100vw;
+    height:70vh;
+}
+
+footer{
+    background-color: brown;
+    width: 100vw;
+    height: 20vh;
+}

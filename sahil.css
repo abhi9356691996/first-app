@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.first{
+    background-color: orange;
+}
+header{
+    height: 20vh;
+    width: 100vw;
+}
+main{
+
+    height: 60vh;
+    width: 100vw;
+    display: flex;
+    justify-content: space-around;
+}
+.col-2{
+    background-color: rgb(24, 63, 97);
+    
+
+
+    
+}
+
+
+footer{
+    background-color: blueviolet;
+    height: 20vh;
+    width:100vw;
+}
